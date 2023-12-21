@@ -2,7 +2,7 @@
 
 #### This is Todo Application
 
-## Live site: https://sji-task-d0093d.netlify.app/
+### Live site: https://sji-task-d0093d.netlify.app/
 
 ### Github Link
 
@@ -32,6 +32,12 @@ npm install
 ```
 npm run dev
 ```
+
+### Features
+
+- Task Create, Read, Update, Delete in this site.
+- Loading state has during data fetching and processing.
+- Error message shown as toast
 
 ### Packages and Technologies
 
